@@ -225,7 +225,7 @@ void DepInfo(string busdir){
         } 
         else
         {
-        cout << "opendir() failed" << std::endl;
+        cout << "opendir() failed" << endl;
         }
 }
 //Entering bus detail
